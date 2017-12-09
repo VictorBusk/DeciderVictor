@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Decider</string>
+    <string name="tv_question">Which one?</string>
+    <string name="tv_person_name">John Doe</string>
+    <string name="pb_text">Last questions results</string>
+</resources>
